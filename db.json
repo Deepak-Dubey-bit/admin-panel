@@ -1,0 +1,85 @@
+{
+  "estimates": [
+    {
+      "id": "fd7a"
+    },
+    {
+      "id": "3d4f",
+      "version": "00012",
+      "project": "New Project",
+      "client": "Client Name",
+      "createdDate": "2025-02-20T19:01:01.838Z",
+      "lastModified": "2025-02-20T19:01:01.838Z",
+      "status": "Created",
+      "sections": [
+        {
+          "id": 1740077989170,
+          "title": "Sample Section",
+          "margin": 0,
+          "items": [
+            {
+              "id": 1740077989170,
+              "name": "red",
+              "description": "de",
+              "unit": "qtr",
+              "quantity": 5,
+              "price": 600,
+              "margin": 33,
+              "total": 3003
+            }
+          ]
+        },
+        {
+          "id": 1740078028539,
+          "title": "Sample Section",
+          "margin": 0,
+          "items": [
+            {
+              "id": 1740078028539,
+              "name": "yellow",
+              "description": "qty",
+              "unit": "123",
+              "quantity": 3,
+              "price": 1000,
+              "margin": 9,
+              "total": 3010
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "customer": "Olivia Martin",
+      "ref": "89PQRS6787U1V2",
+      "projectName": "Sarah Williams",
+      "projectNumber": "PQRTS0102R",
+      "location": "Telangana, Mumbai"
+    }
+  ],
+  "users": [
+    {
+      "id": "d372",
+      "email": "deepak@yopmail.com",
+      "username": "deepak dubey",
+      "password": "12345678",
+      "termsAccepted": true
+    },
+    {
+      "id": "29d7",
+      "email": "dubeyjideepak288@gmail.com",
+      "username": "deepu",
+      "password": "12345678",
+      "termsAccepted": true
+    },
+    {
+      "id": "1659",
+      "email": "dubeyjideepak@gmail.com",
+      "username": "deepak dubey",
+      "password": "12345678",
+      "termsAccepted": true
+    }
+  ]
+}
